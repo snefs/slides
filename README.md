@@ -1,7 +1,4 @@
-# slides
-Slides on subjects I gave workshops, presentations
-
-# Sessions given in the past
+# Session list
 
 ### 2020
 - Agile Product Development - Startup driven architecture (WIP)
