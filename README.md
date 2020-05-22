@@ -39,6 +39,7 @@
 
 ### 2016
 
+- [IoT] A co-founder of silosensor.nl, presented and gave workshops for our self invented (patented) sensor for remote level monitoring for the agricultural sector (Silosensor.nl), on the platform (Node-Red, Influx, Grafana, .Net, Sigfox) and the functionality.
 - [AR] Hosted several workshops for the Hololens and presented use cases (concepts: App, Imagine Experience)
 - [IoT] Hosted several workshops for logistics partners based on asset tracking using NFC / RFID tracks (build a prototype using PowerBI custom visuals, Bluetooth beacons)
 
