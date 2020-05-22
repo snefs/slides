@@ -24,6 +24,8 @@
 
 ### 2017
 
+- [IoT] Empathy as a Service (remote controlled robots / pets) for social distancing of elderly
+
 ### Azure Cognitive services
 - Microsoft Techdays
 - MS Technology event (in house)
@@ -34,5 +36,23 @@
 - Azure Services
 - Azure Advanced topics (ARM templates, workloads)
 - Azure IOT Capabilities
+
+### 2016
+
+- [AR] Hosted several workshops for the Hololens and presented use cases (concepts: App, Imagine Experience)
+- [IoT] Hosted several workshops for logistics partners based on asset tracking using NFC / RFID tracks (build a prototype using PowerBI custom visuals, Bluetooth beacons)
+
+### 2015
+
+- [IoT] Hosted an community event for enthousiasts presenting cases on smart logistics (Stibat)
+- [IoT] Hosted an community event with presentations by external vendors on IoT systems (MyChip)
+- [IoT] Hosted an community event where I presented a remote connected discoball which won a content in the 2015 SeeedStudioPIContest (NGrok, PI, Cloud9 NodeJS, Azure Servicebus)
+- [IoT] Connected scale (based on an ESP chip) developed for AkzoNobel to allow mixing of carpaint using a mobile phone
+- [IoT] Session with Microsoft on the DeviceGateway (Codename "Reykjavik") the foundation of IoT/Event hub
+- [IoT] ESP8266Workshop (workshop on the ESP8266, at that time very promosing due to it's oversized specs for a wifi controller, and with a triving community)
+
+### 2014
+- [Cloud] Architecture principles for the cloud using the Togaf framework
+- [IoT] Presentation on bluetooth and NFC chips / devices
 
 #### *Inhouse training: These are sessions, given for a company and cannot be shared.
