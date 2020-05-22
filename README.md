@@ -8,6 +8,7 @@
 ### 2019
 - DevSecOps on Microsoft Azure: inhouse training
 - Azure API Management best practices (Allego)
+- Deep insights in Azure durable functions data with process mining (https://medium.com/@snefs)
 - IoT Cases for customers (Caesar group)
 - Future trends (Caesar group)
 - Future impact (vision for blogs by  https://medium.com/@futureimpact)
