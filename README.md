@@ -2,11 +2,11 @@
 
 ### 2020
 - Agile Product Development - Startup driven architecture (WIP)
- - Azure Devops: inhouse training (Vion)
- - PowerPlatform Virtual Agent: inhouse training (Vion)
+- Azure Devops: inhouse training (Vion)
+- PowerPlatform Virtual Agent: inhouse training (Vion)
 
 ### 2019
-- DevSecOps on Microsoft Azure: inhouse training
+- DevSecOps on Microsoft Azure: inhouse training (Cloud Republic)
 - Azure API Management best practices (Allego)
 - Deep insights in Azure durable functions data with process mining (https://medium.com/@snefs)
 - IoT Cases for customers (Caesar group)
@@ -14,12 +14,12 @@
 - Future impact (vision for blogs by  https://medium.com/@futureimpact)
 
 ### 2018
-- Integration trends and AI (Stichting Inlichtingenbureau voor Syntergration)
-- DevSecOps on Microsoft Azure: inhouse training
+- Azure API Management best practices (AkzoNobel as Cloud Competence Centre consultant)
+- DevSecOps on Microsoft Azure: inhouse training (AkzoNobel as Cloud Competence Centre consultant)
 - Process mining (Caesar Groep Innovation event)
+- Integration trends and AI (Stichting Inlichtingenbureau voor Syntergration)
 - IoT and Agriculture (Dutch Foodtech event)
-- IoT and Agriculture (Promo presentation for Cloud
-- Republic)
+- IoT and Agriculture (Promo video for Cloud Republic)
 - IoT and Agriculture (SigFox - Partnership meetup)
 
 ### 2017
