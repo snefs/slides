@@ -47,7 +47,9 @@
 
 - [IoT] Hosted an community event for enthousiasts presenting cases on smart logistics (Stibat)
 - [IoT] Hosted an community event with presentations by external vendors on IoT systems (MyChip)
-- [IoT] Hosted an community event where I presented a remote connected discoball which won a content in the 2015 SeeedStudioPIContest (NGrok, PI, Cloud9 NodeJS, Azure Servicebus)
+- [IoT] Hosted an community event where I presented a remote connected discoball which won a content in the 2015 SeeedStudioPIContest (NGrok, PI, Cloud9 NodeJS, Azure Servicebus) 
+  [Architeture](https://github.com/snefs/slides/raw/master/2015_IoT_SeeedStudioPIContest_Setup.png)
+  
 - [IoT] Connected scale (based on an ESP chip) developed for AkzoNobel to allow mixing of carpaint using a mobile phone
 - [IoT] Session with Microsoft on the DeviceGateway (Codename "Reykjavik") the foundation of IoT/Event hub
 - [IoT] ESP8266Workshop (workshop on the ESP8266, at that time very promosing due to it's oversized specs for a wifi controller, and with a triving community)
