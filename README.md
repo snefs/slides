@@ -1,4 +1,4 @@
-# Session list
+# The list of sessions and topics I can present on
 
 ### 2020
 - Agile Product Development - Startup driven architecture (WIP)
