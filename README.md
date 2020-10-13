@@ -2,8 +2,10 @@
 
 ### 2020
 - Agile Product Development - Startup driven architecture (WIP)
-- Azure Devops: inhouse training (Vion)
-- PowerPlatform Virtual Agent: inhouse training (Vion)
+- Integration roadmap and advanced messaging patterns using RabbitMQ*
+- Azure Cloud strategy for implementing the cloud adoption framework*
+- Azure Devops: inhouse training*
+- PowerPlatform Virtual Agent: inhouse training*
 
 ### 2019
 - DevSecOps on Microsoft Azure: inhouse training (Cloud Republic)
