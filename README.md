@@ -5,6 +5,7 @@
 - Integration roadmap and advanced messaging patterns using RabbitMQ*
 - Azure Cloud strategy for implementing the cloud adoption framework*
 - Azure Devops: inhouse training*
+- Topdesk API and Integration scenario's for eventdriven architectures
 - PowerPlatform Virtual Agent: inhouse training*
 
 ### 2019
