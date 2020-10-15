@@ -3,10 +3,10 @@
 ### 2020
 - Agile Product Development - Startup driven architecture (WIP)
 - Integration strategy and advanced messaging patterns using RabbitMQ*
-- Azure Cloud strategy for implementing the cloud adoption framework*
-- Azure Devops: inhouse training*
+- Azure Cloud strategy for implementing the cloud adoption framework
+- Azure Devops: inhouse training and demo's
 - Topdesk API and Integration scenario's for eventdriven architectures
-- PowerPlatform Virtual Agent: inhouse training*
+- PowerPlatform Virtual Agent: use cases and demo's
 
 ### 2019
 - DevSecOps on Microsoft Azure: inhouse training (Cloud Republic)
