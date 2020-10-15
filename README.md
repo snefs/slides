@@ -2,7 +2,7 @@
 
 ### 2020
 - Agile Product Development - Startup driven architecture (WIP)
-- Integration roadmap and advanced messaging patterns using RabbitMQ*
+- Integration strategy and advanced messaging patterns using RabbitMQ*
 - Azure Cloud strategy for implementing the cloud adoption framework*
 - Azure Devops: inhouse training*
 - Topdesk API and Integration scenario's for eventdriven architectures
