@@ -1,10 +1,11 @@
-# The list of sessions and topics I can present on
+# The list of sessions I presented for customers / events
 
 ### 2020
 - Agile Product Development - Startup driven architecture (WIP)
 - Integration strategy and advanced messaging patterns using RabbitMQ*
 - Azure Cloud strategy for implementing the cloud adoption framework
-- Azure Devops: inhouse training and demo's
+- Azure Devops Buffet: roadmap towards Agility and implementing Azure DevOps within the organization
+- Azure Devops Intro: inhouse training and demo's
 - Topdesk API and Integration scenario's for eventdriven architectures
 - PowerPlatform Virtual Agent: use cases and demo's
 
