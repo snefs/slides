@@ -15,7 +15,7 @@
 - Deep insights in Azure durable functions data with process mining (https://medium.com/@snefs)
 - IoT Cases for customers (Caesar group)
 - Future trends (Caesar group)
-- Future impact (vision for blogs by  https://medium.com/@futureimpact)
+- Future impact (vision on the impact of technology on the future) https://medium.com/@futureimpact)
 
 ### 2018
 - Azure API Management best practices (AkzoNobel as Cloud Competence Centre consultant)
